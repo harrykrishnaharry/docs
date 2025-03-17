@@ -8,10 +8,10 @@
     "groups": [
       {
         "group": "Documentation",
-        "pages": ["docs/new-doc.mdx"]
+        "pages": ["docs/new-docs.mdx"]
       }
     ]
   },
-  "homepage": "docs/new-doc.mdx"
+  "homepage": "docs/new-docs.mdx"
 }
 
