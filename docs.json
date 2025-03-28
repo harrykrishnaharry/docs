@@ -5,13 +5,12 @@
     "primary": "#4A90E2"
   },
   "navigation": {
-    "groups": [
-      {
-        "group": "Documentation",
-        "pages": ["docs/new-docs.mdx"]
-      }
-    ]
-  },
+  "tabs": [
+    {
+        "tab": "API Reference",
+        "openapi": "new.json"
+    }
+  ]
+},
   "homepage": "docs/new-docs.mdx"
 }
-
